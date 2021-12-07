@@ -1,4 +1,4 @@
-# Study for Spring MVC 2.6
+# Study for Spring MVC 2.7
 
 Inflearn study project (continuing)
 
